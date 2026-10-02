@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akashdeep-gangatkar-m) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashgangatkaroo@gmail.com) [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=about.me&logoColor=white)](https://deepakash.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akashdeep-gangatkar-m) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashgangatkaroo@gmail.com) [![Website](https://img.shields.io/badge/Website-6F42C1?style=flat&logo=about.me&logoColor=white)](https://deepakash.dev)
 
 
 # 💻 Tech Stack:
